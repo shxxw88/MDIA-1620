@@ -1,5 +1,12 @@
 # MDIA-1620
 
+Hello!
+
+My name is *Sharleen*
+
+My favorite sandwich is a *Bagel B.E.L.T*
+
+
 **3 "aha" moments**
 - How to navigate directories
 - cd stands for change directories

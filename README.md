@@ -20,3 +20,7 @@ My favorite sandwich is a *Bagel B.E.L.T*
 **1 word for how I'm feeling at the moment**
 
 *Tired* 
+
+`git clone` - copies a version of my repository
+`git status` - prints out the status of my local repo 
+`git add` 

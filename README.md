@@ -24,6 +24,8 @@ My favorite sandwich is a *Bagel B.E.L.T*
 *Happy* 
 
 
+### Git Commands 
+
 `git clone` - copies a version of my repository
 
 `git status` - prints out the status of my local repo 

@@ -17,6 +17,7 @@ console.log(STABLE_MONTHTLY_FEE);
 console.log(3+2);
 console.log(STABLE_MONTHTLY_FEE**3);
 
+let horseNickName="Charles"
 let horseIntroduction=" is the same of my horse"
 console.log(horseName+ horseIntroduction);
 

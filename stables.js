@@ -33,6 +33,7 @@ console.log(rentDiscount);
 
 
 // Lesson-5 Code //
+
 let isHorseInside = true;
 let visitingHorseName = "Strawberry";
 
@@ -42,4 +43,21 @@ if(horseNickname === "Cheese" && visitingHorseName === "Lettuce" && isHorseInsid
     console.log(` ${horseNickname} and ${visitingHorseName} are outside`);
 } else (horseName === "Cheese" && visitingHorseName === "Strawberry" && isHorseInside)
     console.log(`${horseNickname} is inside but needs to go outside to greet ${visitingHorseName}`);
+
+
+// Lesson-6 Code // 
+
+let horseNames = ["Cheese","Button","Grapes"];
+let horseAges = [3,2,5];
+let horseIntro = `There are now ${horseNames.length} horses living at the stables! Their names are: ${horseNames[0]}, ${horseNames[1]} and ${horseNames[2]}`;
+let horseAgeIntro = `${horseNames[2]} is the oldest. She is ${horseAges[2]}. ${horseNames[0]} is ${horseAges[0]} and ${horseNames[1]} is the youngest at ${horseAges[1]} years old.`;
+console.log(horseIntro);
+
+
+if(horseAges[1] === "Button" && !isHorseInside){
+    console.log(`${horseAges[1]} is inside`);
+} else (horseAges[1] === "Button" && horseAges[0] === "Cheese" && horseAges[2] === "Grapes" && isHorseInside)
+    console.log(`${horseNames[1]} is playing outside while ${horseNames[0]} and ${horseNames[2]} are chilling inside.`);
+
+
 

@@ -21,7 +21,9 @@ My favorite sandwich is a *Bagel B.E.L.T*
   - Comparison operators 
     
 **Analogy of the day:**
+
 *"Opinions are like belly buttons... some are innies, some are outies"*
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV5djEzOTB1eGo5YXB4dGpneDNvd2R0aHl0c2x0Mjl0cnRsYzVjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZJqPtMjmHbNN6/giphy.gif" width="480" height="355">
 
 
